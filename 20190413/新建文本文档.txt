@@ -1,6 +1,5 @@
 ﻿HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-PPPPPPPPPPPPPPPPPPPPPPPP
-Git --local-branching-on-the-cheap
+PPPPPPPPPPPPPPPPPPPPPPPPGit --local-branching-on-the-cheap
 Search entire site...
 About
 Documentation
@@ -27,8 +26,7 @@ Tagalog,
 Українська
 简体中文,
 Partial translations available in
-cccccccc
-Čeština,
+EEEEEEEEEEEEEEEEEEEEEEEČeština,
 Македонски,
 Polski,
 Српски,
@@ -47,7 +45,7 @@ Português (Portugal),
 Türkçe.
 The source of this book is hosted on GitHub.
 Patches, suggestions and comments are welcome.
-
+EEEEEEEEEEEEEEEEEEEEEE
 Chapters ▾ 2nd Edition
 3.2 Git 分支 - 分支的新建与合并
 分支的新建与合并
@@ -60,7 +58,7 @@ ffffffff
 在这个分支上开展工作。
 
 正在此时，你突然接到一个电话说有个很严重的问题需要紧急修补。 你将按照如下方式来处理：
-
+EEEEEEEEEEEEEEEEEE
 切换到你的线上分支（production branch）。
 
 为这个紧急任务新建一个分支，并在其中修复它。
