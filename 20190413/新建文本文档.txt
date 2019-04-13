@@ -1,8 +1,7 @@
 ﻿
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 PPPPPPPPPPPPPPPPPPPPPPPPGit --local-branching-on-the-cheap
-WENJIANJA
-Search entire site...
+FEI WENJIANJASearch entire site...
 About
 Documentation
 Reference
